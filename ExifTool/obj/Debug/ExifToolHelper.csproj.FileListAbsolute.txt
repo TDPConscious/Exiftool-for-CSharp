@@ -1,0 +1,8 @@
+D:\Project\WindowsProject\ExifTool\ExifTool\bin\Debug\ExifToolHelper.exe.config
+D:\Project\WindowsProject\ExifTool\ExifTool\bin\Debug\ExifToolHelper.exe
+D:\Project\WindowsProject\ExifTool\ExifTool\bin\Debug\ExifToolHelper.pdb
+D:\Project\WindowsProject\ExifTool\ExifTool\obj\Debug\ExifToolHelper.csproj.AssemblyReference.cache
+D:\Project\WindowsProject\ExifTool\ExifTool\obj\Debug\ExifToolHelper.csproj.SuggestedBindingRedirects.cache
+D:\Project\WindowsProject\ExifTool\ExifTool\obj\Debug\ExifToolHelper.csproj.CoreCompileInputs.cache
+D:\Project\WindowsProject\ExifTool\ExifTool\obj\Debug\ExifToolHelper.exe
+D:\Project\WindowsProject\ExifTool\ExifTool\obj\Debug\ExifToolHelper.pdb
