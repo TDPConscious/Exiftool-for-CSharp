@@ -78,6 +78,9 @@ namespace ExifToolHelper
         /// </summary>
         internal static void SetCommand()
         {
+            if (File.Exists($"{toolDirectory}\\temp.txt"))
+                File.Delete($"{toolDirectory}\\temp.txt");
+
             List<string> fileList = new List<string>();
             foreach (var path in Directory.GetFiles(workPath))
                 if (path.EndsWith(extension))
@@ -96,8 +99,6 @@ namespace ExifToolHelper
                     else
                         File.AppendAllText($"{toolDirectory}\\temp.txt", $"{command}\n", Encoding.UTF8);
                 }
-
-            File.Delete($"{toolDirectory}\\command.txt");
         }
         /// <summary>
         /// 运行工具
@@ -129,7 +130,9 @@ namespace ExifToolHelper
                 }
                 while (line != null);
 
-                Console.WriteLine("全部运行完成！");
+                File.Delete($"{toolDirectory}\\temp.txt");
+
+                Console.WriteLine("全部运行完成！按任意键继续...");
                 Console.ReadKey();
             }
         }

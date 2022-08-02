@@ -1,0 +1,25 @@
+-ItemList:Title=标题
+-Microsoft:Subtitle=副标题
+-Microsoft:Category=标记1;标记2
+-ItemList:Comment=备注
+-ItemList:Artist=参与创作的艺术家1;参与创作的艺术家2
+-ItemList:ContentCreateDate="2000:01:01 11:45:14"
+-ItemList:Genre=流派1;流派2
+-Microsoft:Director=导演1;导演2
+-Microsoft:Producer=制作人1;制作人2
+-Microsoft:Writer=创作人1;创作人2
+-Microsoft:Publisher=发布者
+-Microsoft:ContentDistributor=内容提供商
+-Quicktime:CreateDate="2000:01:01 11:45:14"
+-Microsoft:EncodedBy=编码人员
+-Microsoft:AuthorURL=作者URL
+-Microsoft:PromotionURL=促销URL
+-Microsoft:ParentalRating=家长分级
+-ItemList:Composer=作曲者
+-Microsoft:Conductor=指挥者
+-Microsoft:Period=时期
+-Microsoft:Mood=氛围
+-ItemList:DiskNumber=1
+-Microsoft:InitialKey=初始调性
+-ItemList:BeatsPerMinute=1
+%path%

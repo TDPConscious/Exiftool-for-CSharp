@@ -1,8 +1,0 @@
-﻿-Microsoft:Subtitle=测试标题2
-D:\Cache\BilibiliUWP\507949465\1\2.mp4
--Microsoft:Subtitle=测试标题2
-D:\Cache\BilibiliUWP\507949465\1\2.mp4.mp4
--Microsoft:Subtitle=测试标题2
-D:\Cache\BilibiliUWP\507949465\1\507949465_1_0 (2).mp4
--Microsoft:Subtitle=测试标题2
-D:\Cache\BilibiliUWP\507949465\1\�����.mp4
